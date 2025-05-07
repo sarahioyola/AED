@@ -1,3 +1,1 @@
-PS C:\Users\sary_\C++\ejercicios\00-CppHelloWorld>  & 'c:\Users\sary_\.vscode\extensions\ms-vscode.cpptools-1.25.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-z41uce3m.lwp' '--stdout=Microsoft-MIEngine-Out-42hitzrh.oac' '--stderr=Microsoft-MIEngine-Error-odmxm2ws.hhi' '--pid=Microsoft-MIEngine-Pid-vwqte2vy.hoz' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi' 
- Hola Mundo
-PS C:\Users\sary_\C++\ejercicios\00-CppHelloWorld> 
+Hola Mundo
